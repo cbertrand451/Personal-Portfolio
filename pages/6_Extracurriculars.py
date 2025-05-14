@@ -49,9 +49,9 @@ with st.container():
         with st.container(border=True):
             st.markdown("""
                         * Water sport that uses an electric hydrofoil to propel a board above the water
-                        * Usually eFoiling on the east beaches of Lake Michigan
+                        * Usually eFoiling on the east coast beaches of Lake Michigan
                         * Less fuel/energy consumption than even a surfboard style because it's more hydrodynamic. 
-                        Less noise leads to smaller waves and impact to shorelines, other boats, and marinas
+                        Less 'noise' leads to smaller waves and impact to shorelines, other boats, and marinas
                         """)
         st.link_button("What is an eFoil?", "https://waydoo.com/blogs/learn-more-about-efoil/what-is-an-efoil-how-much-does-one-cost#:~:text=The%20eFoil%20board(or%20Electric,Waydoo%20Flyer%20One%20eFoil%20board)", use_container_width=True)
         st.link_button("eFoiling Video", "https://www.youtube.com/watch?v=fShrScFKLcY", use_container_width=True)
