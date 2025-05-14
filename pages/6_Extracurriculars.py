@@ -27,7 +27,7 @@ with st.container():
 with st.container():
     text1, pic1 = st.columns([1, 1])
     with pic1:
-        st.image("images/BBallBand.jpg")
+        st.image("images/BBallBand.JPG")
     with text1:
         st.header("Men's Basketball Band", divider="blue")
         st.markdown("*Sept 2024 - Present*")
@@ -43,7 +43,7 @@ with st.container():
 with st.container():
     pic1, text1 = st.columns([1, 1])
     with pic1:
-        st.image("images/foil_board.jpg")
+        st.image("images/foil_board.JPG")
     with text1:
         st.header("eFoiling", divider="orange")
         with st.container(border=True):
