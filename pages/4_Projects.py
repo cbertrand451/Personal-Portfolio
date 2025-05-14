@@ -48,3 +48,11 @@ with st.container():
 with st.container():
     st.header("Fighting Illini Men's Basketball Database")
     st.markdown("Coming soon...")
+
+"---"
+
+with st.container():
+    st.header("House Plant Species Classifier")
+    st.markdown("Coming soon...")
+
+"---"
