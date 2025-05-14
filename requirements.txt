@@ -1,3 +1,4 @@
 streamlit
 pydub
 io
+pip >=25.1.1
