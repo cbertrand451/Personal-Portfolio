@@ -40,7 +40,7 @@ with st.container():
                 st.link_button("GitHub", "https://github.com/cbertrand451/Sea-Turtle-Tracker/tree/main", use_container_width=True)
 
     with col2:
-        st.image("images/SeaTurtleTracking.png", use_container_width=True)
+        st.image("images/SeaTurtleTracking.PNG", use_container_width=True)
 
 
 "---"
