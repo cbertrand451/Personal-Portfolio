@@ -65,7 +65,7 @@ with st.container():
         with col2:
             st.image("images/BowlGameFirst.png", use_container_width=True)
         with col3:
-            st.image("images\IDLPosterMagazine.png", use_container_width=True)
+            st.image("images\Poster.png", use_container_width=True)
     with text1:
         st.header("Photoshop", divider="violet")
         with st.container(border=True):
