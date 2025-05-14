@@ -58,7 +58,7 @@ with col3:
 
 
 st.header('Drum Roll Please...')
-st.caption("A mini data showcase!")
+st.caption("A sneak peak at my skills with a mini data showcase!")
 with st.container(border=True):
     st.markdown("I'm a member of the Marching Illini Drumline here at UIUC. To integrate my passions for computer science and percussion, I made a rhythm generator.")
     st.markdown("Simply input a word, and the program will return an audio sample of the morse code rhythm of that word. You can control the tempo with the slider. " \

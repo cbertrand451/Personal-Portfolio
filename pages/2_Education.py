@@ -14,7 +14,7 @@ col1, col2, col3 = st.columns([0.3, 0.1, 0.75])
 with col3:
     st.header("B.S. in Data Science + Information Science")
     st.subheader("Minor in Computer Science")
-    st.markdown("Expected Graduation May 2026")
+    st.markdown("*August 2022 - May 2026 (Expected)*")
     with st.container(border=True):
         st.subheader("Relevant Coursework:")
         st.markdown("Modeling & Learning in Data Science, Algorithms and Data Structures for Data Science, Programming for Info Problems, Linear Algebra in Data " \
@@ -28,7 +28,7 @@ with col1:
     with st.container(border=True):
         cola, colb, colc = st.columns([1, 2, 1])
         with colb:
-            st.caption("<p style='text-align: center; font-size:15px;'>University of Illinois in Urbana-Champaign</h1>", unsafe_allow_html=True)
+            st.caption("<p style='text-align: center; font-size:18px;'>University of Illinois in Urbana-Champaign</h1>", unsafe_allow_html=True)
 "---"
 st.header("Certifications", )
 cola, colb = st.columns([2, 1])
