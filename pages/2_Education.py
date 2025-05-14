@@ -28,7 +28,7 @@ with col1:
     with st.container(border=True):
         cola, colb, colc = st.columns([1, 2, 1])
         with colb:
-            st.caption("<p style='text-align: center; font-size:18px;'>University of Illinois in Urbana-Champaign</h1>", unsafe_allow_html=True)
+            st.caption("<p style='text-align: center; font-size:18px;'>University of Illinois Urbana-Champaign</h1>", unsafe_allow_html=True)
 "---"
 st.header("Certifications", )
 cola, colb = st.columns([2, 1])
