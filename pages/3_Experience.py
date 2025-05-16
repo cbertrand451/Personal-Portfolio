@@ -30,7 +30,7 @@ with st.container():
             st.markdown("""
                         * Researched the process of Exploratory Data Analysis (EDA) 
                         * Worked with mentor discussing differences between genres of datasets and what analysis works best for them  
-                        * reated a Python tool which automated the process of EDA for clients and generated custom dataset reports  
+                        * created a Python tool which automated the process of EDA for clients and generated custom dataset reports  
                         * Supplied Stanford Endocrinologists with reports on three Diabetes-related datasets for future analysis 
                         """)
         st.markdown(":blue-badge[Python] :blue-badge[Data Analysis] :blue-badge[Data Research] :blue-badge[EDA]")
