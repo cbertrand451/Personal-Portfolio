@@ -15,7 +15,12 @@ with st.container():
         st.subheader("Intern @ TCS")
         st.markdown("*June 2025 - August 2025*")
         with st.container(border=True):
-            st.markdown("Coming soon...")
+            st.markdown("""
+            * Built AI Agents which automated the process of Quality Engineering
+            * Collaborated with a team to build a User Interface with HTML and Flask for interacting with the AI Agent 
+            * Used REST API to connect to Azure DevOps and get/post key features 
+            * Utilized Prompt Engineering to format the desired output of AI Agent
+            """)
     "---"
 
 with st.container():
