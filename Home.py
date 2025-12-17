@@ -26,7 +26,7 @@ with col1:
     st.subheader("Nice to meet you!")
     with st.container(border=True):
         st.markdown("I'm an aspiring data scientist with a passion for turning raw data into meaningful insights and visualizations.")
-        st.markdown("I am a rising Senior at the **University of Illinois Urbana-Champaign**, majoring in **Data Science + Information Science** with a minor in **Computer Science**.")
+        st.markdown("I am a Senior at the **University of Illinois Urbana-Champaign**, majoring in **Data Science + Information Science**.")
         st.markdown("I'm currently working on projects that combine **Web-Scraping**, **Machine Learning**, and **Data Visualization** to " \
                     "present stories and create some really cool tools! " \
                     "I hope to use real world data that can have a positive impact on society, and display how the power of data analysis creates helpful solutions. ")
