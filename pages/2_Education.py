@@ -13,7 +13,6 @@ col1, col2, col3 = st.columns([0.3, 0.1, 0.75])
 #text
 with col3:
     st.header("B.S. in Data Science + Information Science")
-    st.subheader("Minor in Computer Science")
     st.markdown("*August 2022 - May 2026 (Expected)*")
     with st.container(border=True):
         st.subheader("Relevant Coursework:")
