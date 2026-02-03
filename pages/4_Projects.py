@@ -47,7 +47,39 @@ with st.container():
 
 with st.container():
     st.header("Fighting Illini Men's Basketball Database")
-    st.markdown("Coming soon...")
+    col1, col2 = st.columns([1, 2])
+    with col1:
+        with st.container(border=True):
+            st.subheader("Project Description")
+            st.markdown("""This project is a Streamlit-based analytical dashboard for exploring the history, 
+            performance, and player-level detail of the Illinois Men's Basketball program. It is designed for 
+            quick exploration and deeper analysis, combining season-level results, player statistics, program achievements, 
+            and recruiting geography into one cohesive interface. 
+            """)
+            st.markdown(":blue-badge[Data Cleaning] :blue-badge[Data Transforming] :blue-badge[Exploratory Data Analysis] :blue-badge[Interactive Visualizations] " \
+            ":blue-badge[Geospatial Analysis] :blue-badge[App Development]")
+        with st.container(border=True):
+            st.subheader("View Full Project")
+            st.markdown(" ")
+            st.markdown(" ")
+            cola, colb = st.columns([1, 1])
+            with cola:
+                st.markdown("Interactive Streamlit App:")
+                st.markdown(" ")
+                st.markdown(" ")
+                st.markdown(" ")
+                st.markdown("GitHub Repository:")
+                st.markdown(" ")
+                st.markdown(" ")
+                st.markdown(" ")
+            with colb:
+                st.link_button("Streamlit", "https://illini-basketball.streamlit.app/", use_container_width=True)
+                st.markdown(" ")
+                st.markdown(" ")
+                st.link_button("GitHub", "https://github.com/cbertrand451/Illini-Basketball-Dashboard", use_container_width=True)
+
+    with col2:
+        # st.image("images/SeaTurtleTracking.PNG", use_container_width=True)
 
 "---"
 
