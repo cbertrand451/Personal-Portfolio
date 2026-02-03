@@ -78,7 +78,7 @@ with st.container():
                 st.markdown(" ")
                 st.link_button("GitHub", "https://github.com/cbertrand451/Illini-Basketball-Dashboard", use_container_width=True)
 
-    with col2:
+    # with col2:
         # st.image("images/SeaTurtleTracking.PNG", use_container_width=True)
 
 "---"
